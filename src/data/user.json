@@ -1,0 +1,22 @@
+{
+  "test@daffodilsw.com": {
+    "email": "test@daffodilsw.com",
+    "password": "hrhk@1234",
+    "userType": "USER",
+    "userStatus": "ACTIVE"
+  },
+
+  "sarvesh@daffodilsw.com": {
+    "email": "sarvesh@daffodilsw.com",
+    "password": "hrhk@1234",
+    "userType": "USER",
+    "userStatus": "ACTIVE"
+  },
+
+  "sarvesh.singh@daffodilsw.com": {
+    "email": "sarvesh.singh@daffodilsw.com",
+    "password": "hrhk@1234",
+    "userType": "USER",
+    "userStatus": "ACTIVE"
+  }
+}
