@@ -1,0 +1,40 @@
+{
+  "private": true,
+  "name": "nodejs-api",
+  "version": "0.0.1",
+  "description": "Node Starter for REST API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarvesh-Daffodil/firststep-node.git"
+  },
+  "author": "Sarvesh Singh <sarvesh.singh@daffodilsw.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sarvesh-Daffodil/firststep-node/issues"
+  },
+  "homepage": "https://github.com/Sarvesh-Daffodil/firststep-node#readme",
+  "dependencies": {
+    "ajv": "^6.12.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "glob": "^7.1.6",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.7"
+  },
+  "engines": {
+    "npm": "6.x",
+    "node": "10.3.x"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
